@@ -4,8 +4,8 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xml:base="https://jyu-my.sharepoint.com/personal/hamehdi_jyu_fi/Documents/My_CV_Ontology/cv-ontology.owl"
-    xmlns="https://jyu-my.sharepoint.com/personal/hamehdi_jyu_fi/Documents/My_CV_Ontology/cv-ontology.owl#">
+    xml:base="https://raw.githubusercontent.com/DevHassanMehdi/cv-ontology/refs/heads/main/cv-ontology.owl"
+    xmlns="https://raw.githubusercontent.com/DevHassanMehdi/cv-ontology/refs/heads/main/cv-ontology.owl#">
 
   <owl:Ontology rdf:about="">
     <rdfs:label>CV Ontology for Person_1 (Hassan Mehdi)</rdfs:label>
